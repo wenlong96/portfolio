@@ -2,7 +2,7 @@
 
 **Data Analytics Associate, PwC Singapore** _Jun 2023 - Present_
 
-Provide deep insights and optimization solutions to clients using advanced machine learning and deep learning techniques to add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.
+Develop optimization solutions and provide deep insights to clients using advanced machine learning and deep learning techniques to add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.
 
 Develop and maintain complex visualizations and BI dashboards from multiple datasources to support both external and internal stakeholders.
 
