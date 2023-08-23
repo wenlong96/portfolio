@@ -88,7 +88,7 @@ Volunteers tutor and mentor the students during weekly sessions to support them 
 
 Families are supported through talks and workshops on parenting, healthy living and financial management. Family bonding activities are also organised to foster family cohesiveness and the parent-child relationship.
 
-**Mentor, Calvary Community Care (Singapore)** _Jan 2020 - Jan 2021_
+**Mentor, Calvary Community Care Singapore** _Jan 2020 - Jan 2021_
 
 Promote social interaction and participation in activities after school in a safe and comfortable environment
 
