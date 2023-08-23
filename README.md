@@ -1,14 +1,16 @@
 # Experience
 ## Data Analytics Associate
 ### PwC Singapore
+![pwc5](https://github.com/wenlong96/portfolio/assets/119576694/55a266fa-1902-42d0-a770-a62ad2444563)
 ### Jun 2023 - Present
 
-Provide deep insights to clients using advanced statistical methods and visualization techniques, and add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.Provide deep insights to clients using advanced statistical methods and visualization techniques, and add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.
+Provide deep insights to clients using advanced statistical methods and visualization techniques, and add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit. Provide deep insights to clients using advanced statistical methods and visualization techniques, and add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.
 
 Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming Language) · Python (Programming Language) · Machine Learning · Tableau
 
 ## Data Analyst
 ### Diners Club Singapore
+![diners2](https://github.com/wenlong96/portfolio/assets/119576694/96418cc1-b7f2-4f24-be3e-bf68b35ed09e)
 ### Jan 2023 - Jun 2023
 
 - Initiate, develop, and maintain a new automation module to streamline tasks by implementing scheduled automations and deploying watchers for detecting changes to automate the updating of data in the databases, retrieval of information, report generation, and data visualization by integrating various automation components for improved data management and user experience.
@@ -20,6 +22,7 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 
 ## Investment Associate
 ### Wiziin Inc. Vietnam
+![wiziin2](https://github.com/wenlong96/portfolio/assets/119576694/f43bc1fa-f976-45ba-a22e-09bdee969c60)
 ### May 2021 - Aug 2021
 
 - Conduct research on US startup-investor platforms and identify opportunities for market penetration.
@@ -28,6 +31,7 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 
 ## Fraud Analyst
 ### Citibank Singapore
+![citi2](https://github.com/wenlong96/portfolio/assets/119576694/055a5175-1d4b-49d1-84c3-38a5fb8d72bf)
 ### Jul 2018 - Jun 2019
 
 - Investigate outgoing high-risk transactions and verifying authenticity with clients from different profiles (GCG, IPB, CitiBusiness), including high-net-worth individuals with over S$10million of assets.
@@ -37,27 +41,29 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 
 # Education
 ## Singapore Management University
+![smu2](https://github.com/wenlong96/portfolio/assets/119576694/cc6e6a71-9dde-489a-80cb-ce78b91a33d3)
 ### BSc Economics (1st Major: Economics, 2nd Major: Data Science & Analytics)
-
 ### 2019 - 2023
 - Magna Cum Laude
 - School of Economics Dean's List AY21-22
 - Teaching Assistant: Public Sector Economics (Professor: Christine Ho)
 
-
 ## National University of Singapore
+![nus2](https://github.com/wenlong96/portfolio/assets/119576694/1413b4ea-6dd3-4d9a-9246-bf65a59c2101)
 ### BSc Economics
 ### 2022 - 2022
 - Singapore Universities Student Exchange Programme
 - Courses: Statistical Computing and Programming, Game Theory & Application to Economics
 
 ## Singapore Polytechnic
+![sp2](https://github.com/wenlong96/portfolio/assets/119576694/87989476-d8e9-4c0c-8fec-2346ffd5337c)
 ### Diploma, Banking and Finance
 ### 2013 - 2016
 
 
 # Certifications
 ## Amazon Web Services (AWS)
+![aws2](https://github.com/wenlong96/portfolio/assets/119576694/8be31be0-4ebc-4709-a9c3-9f06658b3c7e)
 - AWS Certified Machine Learning - Specialty ([Credential](https://www.credly.com/badges/7b01b2f1-4470-48e7-a1bb-5d2f92196fea/public_url))
 
 ## Tertiary Infotech Pte Ltd
@@ -68,6 +74,7 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 
 ## Mentor
 ### Chinese Development Assistance Council (CDAC)
+![cdac2](https://github.com/wenlong96/portfolio/assets/119576694/f808babf-1506-40f9-87df-e57c875c2ddd)
 ### Feb 2022 - Nov 2022
 
 The Project YOUth Can Shine (YCS) provides holistic help to families under CDAC Family Assistance Programme by guiding their lower secondary school children in their schoolwork and helping to realise their potential through exposure to build on their competencies.
@@ -78,6 +85,7 @@ Families are supported through talks and workshops on parenting, healthy living 
 
 ## Mentor
 ### Calvary Community Care (Singapore)
+![ccc2](https://github.com/wenlong96/portfolio/assets/119576694/2208f1c0-dd61-44ff-ad58-d55821f7d3e5)
 ### Jan 2020 - Jan 2021
 
 - Promote social interaction and participation in activities after school in a safe and comfortable environment
