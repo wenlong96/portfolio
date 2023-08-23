@@ -6,7 +6,7 @@ Develop optimization solutions and provide deep insights to clients using advanc
 
 Develop and maintain complex visualizations and BI dashboards from multiple datasources to support both external and internal stakeholders.
 
-Collaborate with cross-functional teams to create end-to-end data solutions for clients.
+Collaborate with cross-functional teams to create comprehensive end-to-end data solutions for clients.
 
 _Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming Language) · Python (Programming Language) · Machine Learning · Tableau_
 
