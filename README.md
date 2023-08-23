@@ -13,10 +13,10 @@ Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming
 ### Diners Club Singapore
 ### Jan 2023 - Jun 2023
 
-- Initiate, develop, and maintain a new automation module to streamline tasks by implementing scheduled automations and deploying watchers for detecting changes to automate the updating of data in the databases, retrieval of information, report generation, and data visualization by integrating various automation components for improved data management and user experience.
-- Develop and maintain complex SQL queries from multiple datasources to support both external and internal stakeholders, and deploy Cron Jobs to generate accurate automated reports.
-- Streamline process by redefining logic and revising requirements from legacy systems to meet changing business needs, improve data quality, and optimize query performance.
-- Collaborate with cross-functional teams to create a comprehensive framework for data output to fulfill project objectives.
+Initiate, develop, and maintain a new automation module to streamline tasks by implementing scheduled automations and deploying watchers for detecting changes to automate the updating of data in the databases, retrieval of information, report generation, and data visualization by integrating various automation components for improved data management and user experience.
+Develop and maintain complex SQL queries from multiple datasources to support both external and internal stakeholders, and deploy Cron Jobs to generate accurate automated reports.
+Streamline process by redefining logic and revising requirements from legacy systems to meet changing business needs, improve data quality, and optimize query performance.
+Collaborate with cross-functional teams to create a comprehensive framework for data output to fulfill project objectives.
 
 Skills: Powershell · Batch Programming · R (Programming Language) · Python (Programming Language) · MySQL · Cron · PostgreSQL · Greenplum · Big Data Analytics
 
@@ -25,18 +25,18 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 ### Wiziin Inc. Vietnam
 ### May 2021 - Aug 2021
 
-- Conduct research on US startup-investor platforms and identify opportunities for market penetration.
-- Source for startups with growth potential via networking events and conduct interviews to assess potential areas for value-add.
-- Develop and execute outreach initiatives to multiple stakeholders including VCs, incubators, and startups and support in onboarding to our platform.
+Conduct research on US startup-investor platforms and identify opportunities for market penetration.
+Source for startups with growth potential via networking events and conduct interviews to assess potential areas for value-add.
+Develop and execute outreach initiatives to multiple stakeholders including VCs, incubators, and startups and support in onboarding to our platform.
 
 ## Fraud Analyst
 ![citi2](https://github.com/wenlong96/portfolio/assets/119576694/055a5175-1d4b-49d1-84c3-38a5fb8d72bf)
 ### Citibank Singapore
 ### Jul 2018 - Jun 2019
 
-- Investigate outgoing high-risk transactions and verifying authenticity with clients from different profiles (GCG, IPB, CitiBusiness), including high-net-worth individuals with over S$10million of assets.
-- Collaborate across departments to both interrupt and facilitate riskier and less-risk automated payment processes (e.g. GIRO) and manual payment processes (e.g. SWIFT).
-- Engage in conferences with global counterparts to improve workflow efficiency, reduce risk of fraudulent transfers and enhance customer’s experience.
+Investigate outgoing high-risk transactions and verifying authenticity with clients from different profiles (GCG, IPB, CitiBusiness), including high-net-worth individuals with over S$10million of assets.
+Collaborate across departments to both interrupt and facilitate riskier and less-risk automated payment processes (e.g. GIRO) and manual payment processes (e.g. SWIFT).
+Engage in conferences with global counterparts to improve workflow efficiency, reduce risk of fraudulent transfers and enhance customer’s experience.
 
 
 # Education
@@ -44,16 +44,16 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 ![smu2](https://github.com/wenlong96/portfolio/assets/119576694/e529f133-6bf1-4803-ad92-4ba2c1edc0a4)
 ### BSc Economics (1st Major: Economics, 2nd Major: Data Science & Analytics)
 ### 2019 - 2023
-- Magna Cum Laude
-- School of Economics Dean's List AY21-22
-- Teaching Assistant: Public Sector Economics (Professor: Christine Ho)
+Magna Cum Laude.
+School of Economics Dean's List AY21-22.
+Teaching Assistant: Public Sector Economics (Professor: Christine Ho)
 
 ## National University of Singapore
 ![nus2](https://github.com/wenlong96/portfolio/assets/119576694/1413b4ea-6dd3-4d9a-9246-bf65a59c2101)
 ### BSc Economics
 ### 2022 - 2022
-- Singapore Universities Student Exchange Programme
-- Courses: Statistical Computing and Programming, Game Theory & Application to Economics
+Singapore Universities Student Exchange Programme.
+Courses: Statistical Computing and Programming, Game Theory & Application to Economics
 
 ## Singapore Polytechnic
 ![sp2](https://github.com/wenlong96/portfolio/assets/119576694/b6958a06-536f-49db-8983-0359ea3c9332)
@@ -64,10 +64,11 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 # Certifications
 ## Amazon Web Services (AWS)
 ![aws2](https://github.com/wenlong96/portfolio/assets/119576694/62f77325-e355-4482-af85-d24facd35fc5)
-- AWS Certified Machine Learning - Specialty ([Credential](https://www.credly.com/badges/7b01b2f1-4470-48e7-a1bb-5d2f92196fea/public_url))
+
+AWS Certified Machine Learning - Specialty ([Credential](https://www.credly.com/badges/7b01b2f1-4470-48e7-a1bb-5d2f92196fea/public_url))
 
 ## Tertiary Infotech Pte Ltd
-- Full Tableau Training
+Full Tableau Training
 
 
 # Social Service
@@ -88,10 +89,10 @@ Families are supported through talks and workshops on parenting, healthy living 
 ### Calvary Community Care (Singapore)
 ### Jan 2020 - Jan 2021
 
-- Promote social interaction and participation in activities after school in a safe and comfortable environment
-- Provide avenues for youths to seek assistance and counselling
-- Develop character and social-emotional competencies
-- Promote a greater sense of community-connectedness and belonging
-- Provide a conducive study space and academic coaching
-- Explore career and future prospects with mentoring guidance
-- Provide platforms and opportunities for youths to develop leadership qualities, communication and social skills through their involvement in planning and executing of the centres’ programmes and activities
+Promote social interaction and participation in activities after school in a safe and comfortable environment.
+Provide avenues for youths to seek assistance and counselling.
+Develop character and social-emotional competencies.
+Promote a greater sense of community-connectedness and belonging.
+Provide a conducive study space and academic coaching.
+Explore career and future prospects with mentoring guidance.
+Provide platforms and opportunities for youths to develop leadership qualities, communication and social skills through their involvement in planning and executing of the centres’ programmes and activities.
