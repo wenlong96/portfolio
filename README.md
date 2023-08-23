@@ -42,13 +42,13 @@ Engage in conferences with global counterparts to improve workflow efficiency, r
 
 In the world of business analytics, being able to predict sales with high accuracy can allow one to gain a strategic edge to make data-driven decisions that optimize inventory, resource allocation, marketing strategies and drive growth. With the precise prediction of future sales, businesses can proactively respond to market trends, stay ahead of the curve, and efficiently manage their inventory. In this tutorial, we’ll explore the potential of an immensely popular gradient boosting framework developed by Microsoft, LightGBM, for multi-step sales forecasting by making precise predictions based on store type and item type while capturing the nuances of time series information such as trend and seasonality. In contrast to classical approaches such as ARIMA that are made specifically for time series data, LightGBM is a pure machine learning approach.
 
-**[From Business Requirements to MySQL: A Comprehensive Guide to Database Design and Implementation](https://github.com/wenlong96/data_management)**
-
-Databases play an indispensable role in modern businesses and applications, proficiently storing, organizing, and retrieving critical information. Whether you're an aspiring database developer, a curious business analyst, or genuinely captivated by the inner workings of databases, this guide will provide an immersive learning experience, covering everything from comprehending business requirements to implementing a fully functional MySQL database. In this tutorial, we'll embark on an exciting journey through the dynamic world of database development, where we'll explore the process of creating a MySQL database from scratch while extracting practical data for an array of real-world use cases.
-
 **[LSTM: A Deep Learning Approach to Multivariate Time Series Forecasting](https://github.com/wenlong96/lstm)**
 
 In a landscape where established machine learning techniques based on Gradient Boosting Machines (e.g., XGBoost, LightGBM, CatBoost) and classical methods based on ARIMA (e.g., SARIMA, ARIMA-X) are far and wide, deep learning opens up a new realm of possibilities for time series forecasting. In this tutorial, we will explore how Recurrent Neural Networks (RNN), particularly the powerful Long Short-Term Memory (LSTM) architecture, can be used for precise predictions when dealing with time series data. LSTM networks are a type of RNN architecture designed to address some of the limitations of traditional RNNs, such as the vanishing gradient problem, and to capture long-range dependencies in time series data.
+
+**[From Business Requirements to MySQL: A Comprehensive Guide to Database Design and Implementation](https://github.com/wenlong96/data_management)**
+
+Databases play an indispensable role in modern businesses and applications, proficiently storing, organizing, and retrieving critical information. Whether you're an aspiring database developer, a curious business analyst, or genuinely captivated by the inner workings of databases, this guide will provide an immersive learning experience, covering everything from comprehending business requirements to implementing a fully functional MySQL database. In this tutorial, we'll embark on an exciting journey through the dynamic world of database development, where we'll explore the process of creating a MySQL database from scratch while extracting practical data for an array of real-world use cases.
 
 &nbsp;
 
