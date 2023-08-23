@@ -1,6 +1,4 @@
-LightGBM: A Multi-Step Time Series Forecasting Approach with Bayesian
-Optimization
-================
+# LightGBM: A Multi-Step Time Series Forecasting Approach with Bayesian Optimization
 
 In the world of business analytics, being able to predict sales with
 high accuracy can allow one to gain a strategic edge to make data-driven
