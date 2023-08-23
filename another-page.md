@@ -1,9 +1,10 @@
 ---
-layout: page
 title: null
 logo: null
 description: null
 show_downloads: false
+theme: jekyll-theme-minimal
+markdown: kramdown
 ---
 
 # LightGBM: A Multi-Step Time Series Forecasting Approach with Bayesian Optimization
