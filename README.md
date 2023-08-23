@@ -1,7 +1,7 @@
 # Experience
 ## Data Analytics Associate
-### PwC Singapore
 ![pwc5](https://github.com/wenlong96/portfolio/assets/119576694/55a266fa-1902-42d0-a770-a62ad2444563)
+### PwC Singapore
 ### Jun 2023 - Present
 
 Provide deep insights to clients using advanced statistical methods and visualization techniques, and add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit. Provide deep insights to clients using advanced statistical methods and visualization techniques, and add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.
@@ -9,8 +9,8 @@ Provide deep insights to clients using advanced statistical methods and visualiz
 Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming Language) · Python (Programming Language) · Machine Learning · Tableau
 
 ## Data Analyst
-### Diners Club Singapore
 ![diners2](https://github.com/wenlong96/portfolio/assets/119576694/96418cc1-b7f2-4f24-be3e-bf68b35ed09e)
+### Diners Club Singapore
 ### Jan 2023 - Jun 2023
 
 - Initiate, develop, and maintain a new automation module to streamline tasks by implementing scheduled automations and deploying watchers for detecting changes to automate the updating of data in the databases, retrieval of information, report generation, and data visualization by integrating various automation components for improved data management and user experience.
@@ -21,8 +21,8 @@ Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming
 Skills: Powershell · Batch Programming · R (Programming Language) · Python (Programming Language) · MySQL · Cron · PostgreSQL · Greenplum · Big Data Analytics
 
 ## Investment Associate
+![wiziin](https://github.com/wenlong96/portfolio/assets/119576694/e40012fa-8662-44a9-a76c-8e616d73e409)
 ### Wiziin Inc. Vietnam
-![wiziin2](https://github.com/wenlong96/portfolio/assets/119576694/f43bc1fa-f976-45ba-a22e-09bdee969c60)
 ### May 2021 - Aug 2021
 
 - Conduct research on US startup-investor platforms and identify opportunities for market penetration.
@@ -30,8 +30,8 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 - Develop and execute outreach initiatives to multiple stakeholders including VCs, incubators, and startups and support in onboarding to our platform.
 
 ## Fraud Analyst
-### Citibank Singapore
 ![citi2](https://github.com/wenlong96/portfolio/assets/119576694/055a5175-1d4b-49d1-84c3-38a5fb8d72bf)
+### Citibank Singapore
 ### Jul 2018 - Jun 2019
 
 - Investigate outgoing high-risk transactions and verifying authenticity with clients from different profiles (GCG, IPB, CitiBusiness), including high-net-worth individuals with over S$10million of assets.
@@ -73,8 +73,8 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 # Social Service
 
 ## Mentor
-### Chinese Development Assistance Council (CDAC)
 ![cdac2](https://github.com/wenlong96/portfolio/assets/119576694/f808babf-1506-40f9-87df-e57c875c2ddd)
+### Chinese Development Assistance Council (CDAC)
 ### Feb 2022 - Nov 2022
 
 The Project YOUth Can Shine (YCS) provides holistic help to families under CDAC Family Assistance Programme by guiding their lower secondary school children in their schoolwork and helping to realise their potential through exposure to build on their competencies.
@@ -84,8 +84,8 @@ Volunteers tutor and mentor the students during weekly sessions to support them 
 Families are supported through talks and workshops on parenting, healthy living and financial management. Family bonding activities are also organised to foster family cohesiveness and the parent-child relationship.
 
 ## Mentor
-### Calvary Community Care (Singapore)
 ![ccc2](https://github.com/wenlong96/portfolio/assets/119576694/2208f1c0-dd61-44ff-ad58-d55821f7d3e5)
+### Calvary Community Care (Singapore)
 ### Jan 2020 - Jan 2021
 
 - Promote social interaction and participation in activities after school in a safe and comfortable environment
