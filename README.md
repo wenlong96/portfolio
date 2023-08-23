@@ -1,6 +1,6 @@
 # Experience
 
-[link to another page](./another-page.html)
+[link to another page](./another-page.md)
 
 **Data Analytics Associate, PwC Singapore** _Jun 2023 - Present_
 
