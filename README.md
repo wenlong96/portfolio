@@ -21,7 +21,7 @@ Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming
 Skills: Powershell · Batch Programming · R (Programming Language) · Python (Programming Language) · MySQL · Cron · PostgreSQL · Greenplum · Big Data Analytics
 
 ## Investment Associate
-![wiziin](https://github.com/wenlong96/portfolio/assets/119576694/e40012fa-8662-44a9-a76c-8e616d73e409)
+![wiziin2](https://github.com/wenlong96/portfolio/assets/119576694/baa3edc1-0959-45fa-baa8-576124e6dbcf)
 ### Wiziin Inc. Vietnam
 ### May 2021 - Aug 2021
 
@@ -41,7 +41,7 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 
 # Education
 ## Singapore Management University
-![smu2](https://github.com/wenlong96/portfolio/assets/119576694/cc6e6a71-9dde-489a-80cb-ce78b91a33d3)
+![smu2](https://github.com/wenlong96/portfolio/assets/119576694/e529f133-6bf1-4803-ad92-4ba2c1edc0a4)
 ### BSc Economics (1st Major: Economics, 2nd Major: Data Science & Analytics)
 ### 2019 - 2023
 - Magna Cum Laude
@@ -56,14 +56,14 @@ Skills: Powershell · Batch Programming · R (Programming Language) · Python (P
 - Courses: Statistical Computing and Programming, Game Theory & Application to Economics
 
 ## Singapore Polytechnic
-![sp2](https://github.com/wenlong96/portfolio/assets/119576694/87989476-d8e9-4c0c-8fec-2346ffd5337c)
+![sp2](https://github.com/wenlong96/portfolio/assets/119576694/b6958a06-536f-49db-8983-0359ea3c9332)
 ### Diploma, Banking and Finance
 ### 2013 - 2016
 
 
 # Certifications
 ## Amazon Web Services (AWS)
-![aws2](https://github.com/wenlong96/portfolio/assets/119576694/8be31be0-4ebc-4709-a9c3-9f06658b3c7e)
+![aws2](https://github.com/wenlong96/portfolio/assets/119576694/62f77325-e355-4482-af85-d24facd35fc5)
 - AWS Certified Machine Learning - Specialty ([Credential](https://www.credly.com/badges/7b01b2f1-4470-48e7-a1bb-5d2f92196fea/public_url))
 
 ## Tertiary Infotech Pte Ltd
