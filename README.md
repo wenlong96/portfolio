@@ -6,7 +6,7 @@ Provide deep insights and optimization solutions to clients using advanced machi
 
 Develop and maintain complex visualizations and BI dashboards from multiple datasources to support both external and internal stakeholders.
 
-Collaborate with cross-functional teams to create an end-to-end data solution for clients.
+Collaborate with cross-functional teams to create end-to-end data solutions for clients.
 
 _Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming Language) · Python (Programming Language) · Machine Learning · Tableau_
 
