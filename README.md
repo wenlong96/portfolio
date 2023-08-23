@@ -1,12 +1,12 @@
 # Experience
 
-**Data Analytics Associate, PwC Singapore** _Jun 2023 - Present_
+**Data Analytics Associate, PwC Singapore _Jun 2023 - Present_**
 
 Provide deep insights to clients using advanced statistical methods and visualization techniques, and add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit. Provide deep insights to clients using advanced statistical methods and visualization techniques, and add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.
 
 _Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming Language) · Python (Programming Language) · Machine Learning · Tableau_
 
-**Data Analyst, Diners Club Singapore** _Jan 2023 - Jun 2023_
+**Data Analyst, Diners Club Singapore _Jan 2023 - Jun 2023_**
 
 Initiate, develop, and maintain a new automation module to streamline tasks by implementing scheduled automations and deploying watchers for detecting changes to automate the updating of data in the databases, retrieval of information, report generation, and data visualization by integrating various automation components for improved data management and user experience.
 
