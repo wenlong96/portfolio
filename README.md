@@ -46,6 +46,10 @@ In the world of business analytics, being able to predict sales with high accura
 
 Databases play an indispensable role in modern businesses and applications, proficiently storing, organizing, and retrieving critical information. Whether you're an aspiring database developer, a curious business analyst, or genuinely captivated by the inner workings of databases, this guide will provide an immersive learning experience, covering everything from comprehending business requirements to implementing a fully functional MySQL database. In this tutorial, we'll embark on an exciting journey through the dynamic world of database development, where we'll explore the process of creating a MySQL database from scratch while extracting practical data for an array of real-world use cases.
 
+**[LSTM: A Deep Learning Approach to Multivariate Time Series Forecasting](https://github.com/wenlong96/lstm)**
+
+In a landscape where established machine learning techniques based on Gradient Boosting Machines (e.g., XGBoost, LightGBM, CatBoost) and classical methods based on ARIMA (e.g., SARIMA, ARIMA-X) are far and wide, deep learning opens up a new realm of possibilities for time series forecasting. In this tutorial, we will explore how Recurrent Neural Networks (RNN), particularly the powerful Long Short-Term Memory (LSTM) architecture, can be used for precise predictions when dealing with time series data. LSTM networks are a type of RNN architecture designed to address some of the limitations of traditional RNNs, such as the vanishing gradient problem, and to capture long-range dependencies in time series data.
+
 &nbsp;
 
 # Education
