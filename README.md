@@ -1,12 +1,12 @@
 # Experience
 
-**Data Analytics Associate, PwC Singapore _Jun 2023 - Present_**
+**Data Analytics Associate, PwC Singapore** _Jun 2023 - Present_
 
 Provide deep insights to clients using advanced statistical methods and visualization techniques, and add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit. Provide deep insights to clients using advanced statistical methods and visualization techniques, and add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.
 
 _Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming Language) · Python (Programming Language) · Machine Learning · Tableau_
 
-**Data Analyst, Diners Club Singapore _Jan 2023 - Jun 2023_**
+**Data Analyst, Diners Club Singapore** _Jan 2023 - Jun 2023_
 
 Initiate, develop, and maintain a new automation module to streamline tasks by implementing scheduled automations and deploying watchers for detecting changes to automate the updating of data in the databases, retrieval of information, report generation, and data visualization by integrating various automation components for improved data management and user experience.
 
@@ -33,6 +33,18 @@ Investigate outgoing high-risk transactions and verifying authenticity with clie
 Collaborate across departments to both interrupt and facilitate riskier and less-risk automated payment processes (e.g. GIRO) and manual payment processes (e.g. SWIFT).
 
 Engage in conferences with global counterparts to improve workflow efficiency, reduce risk of fraudulent transfers and enhance customer’s experience.
+
+&nbsp;
+
+# Project
+
+**[LightGBM: A Multi-Step Time Series Forecasting Approach with Bayesian Optimization](https://github.com/wenlong96/lgbm_time_series)**
+
+In the world of business analytics, being able to predict sales with high accuracy can allow one to gain a strategic edge to make data-driven decisions that optimize inventory, resource allocation, marketing strategies and drive growth. With the precise prediction of future sales, businesses can proactively respond to market trends, stay ahead of the curve, and efficiently manage their inventory. In this tutorial, we’ll explore the potential of an immensely popular gradient boosting framework developed by Microsoft, LightGBM, for multi-step sales forecasting by making precise predictions based on store type and item type while capturing the nuances of time series information such as trend and seasonality. In contrast to classical approaches such as ARIMA that are made specifically for time series data, LightGBM is a pure machine learning approach.
+
+**[From Business Requirements to MySQL: A Comprehensive Guide to Database Design and Implementation](https://github.com/wenlong96/data_management)**
+
+Databases play an indispensable role in modern businesses and applications, proficiently storing, organizing, and retrieving critical information. Whether you're an aspiring database developer, a curious business analyst, or genuinely captivated by the inner workings of databases, this guide will provide an immersive learning experience, covering everything from comprehending business requirements to implementing a fully functional MySQL database. In this tutorial, we'll embark on an exciting journey through the dynamic world of database development, where we'll explore the process of creating a MySQL database from scratch while extracting practical data for an array of real-world use cases.
 
 &nbsp;
 
