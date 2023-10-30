@@ -4,9 +4,9 @@
 
 Develop optimization solutions and provide deep insights to clients using advanced machine learning and deep learning techniques to add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.
 
-Develop and maintain complex visualizations and BI dashboards from multiple datasources to support both external and internal stakeholders.
+Develop a comprehensive end-to-end data solution that automate API calls and data mining algorithms from public sources to develop perceptual maps and white space analysis using sentiment analysis and factor analysis.
 
-Collaborate with cross-functional teams to create comprehensive end-to-end data solutions for clients.
+Develop and maintain complex visualizations and BI dashboards from multiple datasources to support both external and internal stakeholders.
 
 _Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming Language) · Python (Programming Language) · Machine Learning · Tableau_
 
@@ -21,14 +21,6 @@ Streamline process by redefining logic and revising requirements from legacy sys
 Collaborate with cross-functional teams to create a comprehensive framework for data output to fulfill project objectives.
 
 _Skills: Powershell · Batch Programming · R (Programming Language) · Python (Programming Language) · MySQL · Cron · PostgreSQL · Greenplum · Big Data Analytics_
-
-**Investment Associate, Wiziin Inc. Vietnam** _May 2021 - Aug 2021_
-
-Conduct research on US startup-investor platforms and identify opportunities for market penetration.
-
-Source for startups with growth potential via networking events and conduct interviews to assess potential areas for value-add.
-
-Develop and execute outreach initiatives to multiple stakeholders including VCs, incubators, and startups and support in onboarding to our platform.
 
 **Fraud Analyst, Citibank Singapore** _Jul 2018 - Jun 2019_
 
