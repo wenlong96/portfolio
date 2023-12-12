@@ -4,15 +4,17 @@
 
 Develop optimization solutions and provide deep insights to clients using advanced machine learning and deep learning techniques to add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.
 
-Develop a comprehensive end-to-end data solution that automate API calls and data mining algorithms from public sources to develop perceptual maps and white space analysis using sentiment analysis and factor analysis.
+Design, test, and implement time-series machine learning forecast models that resulted in a 20% improvement in understock and reduction in overstock situations.
 
-Develop and maintain complex visualizations and BI dashboards from multiple datasources to support both external and internal stakeholders.
+Develop and deliver comprehensive end-to-end data solutions that automate API calls and data mining algorithms to develop perceptual maps and white space analysis using factor analysis and geospatial analysis.
+
+Implement algorithms to create and maintain complex on-demand visualizations and BI dashboards applications from multiple datasources to support both external and internal stakeholders.
 
 _Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming Language) · Python (Programming Language) · Machine Learning · Tableau_
 
 **Data Analyst, Diners Club Singapore** _Jan 2023 - Jun 2023_
 
-Initiate, develop, and maintain a new automation module to streamline tasks by implementing scheduled automations and deploying watchers for detecting changes to automate the updating of data in the databases, retrieval of information, report generation, and data visualization by integrating various automation components for improved data management and user experience.
+Initiate, develop, and maintain a new automation module to streamline tasks by deploying watchers for detecting changes to automate crawling, tidying, and ingestion of data in the databases, retrieval of information, report generation, and data visualization by integrating various automation components, which negates the requirement for a physically present individual and saves 30 minutes of daily work hours.
 
 Develop and maintain complex SQL queries from multiple datasources to support both external and internal stakeholders, and deploy Cron Jobs to generate accurate automated reports.
 
