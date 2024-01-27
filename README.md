@@ -1,4 +1,4 @@
-# Experience
+# Experiences
 
 **Data Analytics Associate, PwC Singapore** _Jun 2023 - Present_
 
@@ -34,7 +34,7 @@ Engage in conferences with global counterparts to improve workflow efficiency, r
 
 &nbsp;
 
-# Project
+# Projects
 
 **[LightGBM: A Multi-Step Time Series Forecasting Approach with Bayesian Optimization](https://github.com/wenlong96/lgbm_time_series)**
 
@@ -80,7 +80,7 @@ Full Tableau Training
 
 &nbsp;
 
-# Social Service
+# Social Services
 
 **Mentor, Chinese Development Assistance Council (CDAC)** _Feb 2022 - Nov 2022_
 
