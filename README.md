@@ -36,7 +36,7 @@ Engage in conferences with global counterparts to improve workflow efficiency, r
 
 # Projects
 
-**[LightGBM: A Multi-Step Time Series Forecasting Approach with Bayesian Optimization](https://github.com/wenlong96/lgbm_time_series)**
+**[Time Series Demand Forecasting with Ensemble Methods and Bayesian Optimized Hyperparameter Tuning](https://github.com/wenlong96/lgbm_time_series)**
 
 In the world of business analytics, being able to predict sales with high accuracy can allow one to gain a strategic edge to make data-driven decisions that optimize inventory, resource allocation, marketing strategies and drive growth. With the precise prediction of future sales, businesses can proactively respond to market trends, stay ahead of the curve, and efficiently manage their inventory. In this tutorial, we’ll explore the potential of an immensely popular gradient boosting framework developed by Microsoft, LightGBM, for multi-step sales forecasting by making precise predictions based on store type and item type while capturing the nuances of time series information such as trend and seasonality. In contrast to classical approaches such as ARIMA that are made specifically for time series data, LightGBM is a pure machine learning approach.
 
