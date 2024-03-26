@@ -1,8 +1,8 @@
 # Experiences
 
-**Data Analytics Associate, PwC Singapore** _Jun 2023 - Present_
+**Data Scientist, PwC Singapore** _Jun 2023 - Present_
 
-Develop optimization solutions and provide deep insights to clients using advanced machine learning and deep learning techniques to add value along the entire Deal continuum, from strategy formulation to deal origination, transaction support and finance raising, through to post deal integration and exit.
+Develop optimization solutions using advanced machine learning techniques for M&A strategies, and provide deep insights across strategic, commercial, and due diligence domains for sustained competitive advantage.
 
 Design, test, and implement time-series machine learning forecast models that resulted in a 20% improvement in understock and reduction in overstock situations.
 
