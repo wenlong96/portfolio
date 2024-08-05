@@ -2,15 +2,17 @@
 
 **Data Scientist, PwC Singapore** _Jun 2023 - Present_
 
-Develop optimization solutions using advanced machine learning techniques for M&A strategies, and provide deep insights across strategic, commercial, and due diligence domains for sustained competitive advantage.
+Develop and sold custom GenAI solutions involving unstructured data and images that outperform off-the-shelf alternatives, delivering significant cost savings for clients (sold for US$650,000).
+
+Develop GenAI solutions utilizing RPA, effectively improve cost-saving by US$500,000 per year, recurring.
+
+Refactored and optimized codebases, reducing execution times by 80% by adopting async practices and creating coroutines on the entire self-reflective RAG pipeline.
 
 Design, test, and implement time-series machine learning forecast models that resulted in a 20% improvement in understock and reduction in overstock situations.
 
-Develop and deliver comprehensive end-to-end data solutions that automate API calls and data mining algorithms to develop perceptual maps and white space analysis using factor analysis and geospatial analysis.
+Develop and deliver data solutions that automate API calls and data mining algorithms to develop perceptual maps and white space analysis using factor analysis and geospatial analysis.
 
-Implement algorithms to create and maintain complex on-demand visualizations and BI dashboards applications from multiple datasources to support both external and internal stakeholders.
-
-_Skills: TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming Language) · Python (Programming Language) · Machine Learning · Tableau_
+_Skills: LangChain · LlamaIndex · asyncio · TensorFlow · Keras · Deep Learning · Alteryx · SQL · R (Programming Language) · Python (Programming Language) · Machine Learning · Tableau · PowerBI · Copilot Studio · Power Automate_
 
 **Data Analyst, Diners Club Singapore** _Jan 2023 - Jun 2023_
 
@@ -28,9 +30,7 @@ _Skills: Powershell · Batch Programming · R (Programming Language) · Python (
 
 Investigate outgoing high-risk transactions and verifying authenticity with clients from different profiles (GCG, IPB, CitiBusiness), including high-net-worth individuals with over S$10million of assets.
 
-Collaborate across departments to both interrupt and facilitate riskier and less-risk automated payment processes (e.g. GIRO) and manual payment processes (e.g. SWIFT).
-
-Engage in conferences with global counterparts to improve workflow efficiency, reduce risk of fraudulent transfers and enhance customer’s experience.
+Collaborate across departments to improve frameworks that interrupt and facilitate riskier and less-risk automated payment processes (e.g. GIRO) and manual payment processes (e.g. SWIFT) respectively.
 
 &nbsp;
 
