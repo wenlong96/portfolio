@@ -76,6 +76,8 @@ Courses: Statistical Computing and Programming, Game Theory & Application to Eco
 # Scholarship
 **Singapore Digital Scholarship (Postgraduate) - Artificial Intelligence**
 
+The Singapore Digital Scholarship (Postgraduate) is an industry scholarship for Singaporeans who are keen on pursuing their tech- or media-related studies at the Master’s or PhD level, in specialised areas such as Artificial Intelligence, Quantum Technologies, Immersive Media, and Film Studies. It focuses on developing future leaders for Singapore’s technology and media ecosystem.
+
 &nbsp;
 
 # Certifications
