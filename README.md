@@ -73,6 +73,11 @@ Courses: Statistical Computing and Programming, Game Theory & Application to Eco
 
 &nbsp;
 
+# Scholarship
+**Singapore Digital Scholarship (Postgraduate) - Artificial Intelligence**
+
+&nbsp;
+
 # Certifications
 **Amazon Web Services (AWS)**
 
