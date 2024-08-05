@@ -6,7 +6,7 @@ Develop and sold custom GenAI solutions involving unstructured data and images t
 
 Develop GenAI solutions utilizing RPA, effectively improve cost-saving by US$500,000 per year, recurring.
 
-Refactored and optimized codebases, reducing execution times by 80% by adopting async practices and creating coroutines on the entire self-reflective RAG pipeline.
+Refactor and optimize codebases, reducing execution times by 80% by adopting async practices and creating coroutines on the entire self-reflective RAG pipeline.
 
 Design, test, and implement time-series machine learning forecast models that resulted in a 20% improvement in understock and reduction in overstock situations.
 
